@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-logo="https://pipitvonline.tk/logo/sctv1.png",SCTV1
 https://live.pipitvonline.tk/stream/channelid/284337202?auth=PdfMJ8jcqV313y1qpd-BoOGtVmxI
 #EXTINF:-1 tvg-logo="https://pipitvonline.tk/logo/sctv2.png",SCTV2
