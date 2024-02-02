@@ -1,5 +1,4 @@
 # Chào mừng bạn đến với PiPiTV !
 🔵 [PiPiTV playlist](https://pipitvonline.tk)
-
-🔵 Bộ logo các kênh truyền hình dành cho các danh sách phát:
-https://github.com/pipitivi/iptv/tree/main/logo
+# ------------------THÔNG BÁO-----------------
+🔵 Từ 2/2/2024, playlist tạm ngừng phục vụ trong thời gian nghỉ Tết Nguyên Đán 2024 đến khi có thông báo mới.
