@@ -1,57 +1,57 @@
-#EXTM3U tvg-shift=0 m3uautoload=1
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png",SCTV1
-https://pipitv.top/stream/channelid/1690583418
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv2.png",SCTV2
-https://pipitv.top/stream/channelid/742676874
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv3.png",SCTV3
-https://pipitv.top/stream/channelid/684528593
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4.png",SCTV4
-https://pipitv.top/stream/channelid/15690324
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv5.png",SCTV5
-https://pipitv.top/stream/channelid/2109412040
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv6.png",SCTV6
-https://pipitv.top/stream/channelid/1674313519
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv7.png",SCTV7
-https://pipitv.top/stream/channelid/1419379834
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv8.png",SCTV8
-https://pipitv.top/stream/channelid/709374858
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv9.png",SCTV9
-https://pipitv.top/stream/channelid/1556718297
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv10.png",SCTV10
-https://pipitv.top/stream/channelid/948381913
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv11.png",SCTV11
-https://pipitv.top/stream/channelid/1299181619
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv12.png",SCTV12
-https://pipitv.top/stream/channelid/75565752
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv13.png",SCTV13
-https://pipitv.top/stream/channelid/1500374302
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv14.png",SCTV14
-https://pipitv.top/stream/channelid/1656741578
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png",SCTV15
-https://pipitv.top/stream/channelid/1264660963
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv16.png",SCTV16
-https://pipitv.top/stream/channelid/572080973
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png",SCTV17
-https://pipitv.top/stream/channelid/446280330
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv18.png",SCTV18
-https://pipitv.top/stream/channelid/1211642457
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv19.png",SCTV19
-https://pipitv.top/stream/channelid/1999351624
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv20.png",SCTV20
-https://pipitv.top/stream/channelid/2050538410
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv21.png",SCTV21
-https://pipitv.top/stream/channelid/1824037579
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png",SCTV22
-https://pipitv.top/stream/channelid/1064156880
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctvpth.png",SCTV PHIM TONG HOP
-https://pipitv.top/stream/channelid/437551339
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4k.png",SCTV 4K
-https://pipitv.top/stream/channelid/8655409
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl1.png",THVL1
-https://pipitv.top/stream/channelid/1562240263
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl2.png",THVL2
-https://pipitv.top/stream/channelid/1385688055
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl3.png",THVL3
-https://pipitv.top/stream/channelid/1204646197
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl4.png",THVL4
-https://pipitv.top/stream/channelid/918402554
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
+https://live.pipitv.top/stream/channelid/645888650
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv2.png" tvg-id="sctv2hd", SCTV2
+https://live.pipitv.top/stream/channelid/782928490
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv3.png" tvg-id="sctv3hd", SCTV3
+https://live.pipitv.top/stream/channelid/1553952907
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4.png" tvg-id="sctv4hd", SCTV4
+https://live.pipitv.top/stream/channelid/573819801
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv5.png" tvg-id="sctv5hd", SCTV5
+https://live.pipitv.top/stream/channelid/1016526801
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv6.png" tvg-id="sctv6hd", SCTV6
+https://live.pipitv.top/stream/channelid/631756671
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv7.png" tvg-id="sctv7hd", SCTV7
+https://live.pipitv.top/stream/channelid/1425589012
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv8.png" tvg-id="sctv8hd", SCTV8
+https://live.pipitv.top/stream/channelid/186433624
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv9.png" tvg-id="sctv9hd", SCTV9
+https://live.pipitv.top/stream/channelid/1503181407
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv10hd",SCTV 4K
+https://live.pipitv.top/stream/channelid/1337360324
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctvpth.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
+https://live.pipitv.top/stream/channelid/801391768
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv10.png" tvg-id="sctv10hd",SCTV10
+https://live.pipitv.top/stream/channelid/51448442
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv11.png" tvg-id="sctv11hd",SCTV11
+https://live.pipitv.top/stream/channelid/1122325675
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv12.png" tvg-id="sctv12hd",SCTV12
+https://live.pipitv.top/stream/channelid/425596945
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv13.png" tvg-id="sctv13hd",SCTV13
+https://live.pipitv.top/stream/channelid/1022542963
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv14.png" tvg-id="sctv14hd",SCTV14
+https://live.pipitv.top/stream/channelid/487570221
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
+https://live.pipitv.top/stream/channelid/1894964523
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv16.png" tvg-id="sctv16hd",SCTV16
+https://live.pipitv.top/stream/channelid/820185683
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
+https://live.pipitv.top/stream/channelid/2145679799
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv18.png" tvg-id="sctv18hd",SCTV18
+https://live.pipitv.top/stream/channelid/1618021525
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv19.png" tvg-id="sctv19hd",SCTV19
+https://live.pipitv.top/stream/channelid/1140506282
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv20.png" tvg-id="sctv20hd",SCTV20
+https://live.pipitv.top/stream/channelid/1421199066
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv21.png" tvg-id="sctv21hd",SCTV21
+https://live.pipitv.top/stream/channelid/102358233
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
+https://live.pipitv.top/stream/channelid/566408459
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
+https://live.pipitv.top/stream/channelid/1103717465
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
+https://live.pipitv.top/stream/channelid/710675888
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl3.png" tvg-id="vinhlong3hd",THVL3
+https://live.pipitv.top/stream/channelid/453644513
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl4.png" tvg-id="vinhlong4hd",THVL4
+https://live.pipitv.top/stream/channelid/492302294
