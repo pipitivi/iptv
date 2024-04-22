@@ -1,89 +1,74 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1, [Live Event HD]
-https://live.pipitv.top/stream/channelid/2062425704
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="681eee7a797815fa3ec207afbca0c7ed",  [Live Event HD]
+https://hqth.me/cMs
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
-https://live.pipitv.top/stream/channelid/31119694
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv1hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv2.png" tvg-id="sctv2hd", SCTV2
-https://live.pipitv.top/stream/channelid/558702856
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv2hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv3.png" tvg-id="sctv3hd", SCTV3
-https://live.pipitv.top/stream/channelid/2017487746
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv3hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4.png" tvg-id="sctv4hd", SCTV4
-https://live.pipitv.top/stream/channelid/2118724127
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv4hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv5.png" tvg-id="sctv5hd", SCTV5
-https://live.pipitv.top/stream/channelid/1449545899
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv5hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv6.png" tvg-id="sctv6hd", SCTV6
-https://live.pipitv.top/stream/channelid/139564163
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv6hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv7.png" tvg-id="sctv7hd", SCTV7
-https://live.pipitv.top/stream/channelid/1208655036
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv7hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv8.png" tvg-id="sctv8hd", SCTV8
-https://live.pipitv.top/stream/channelid/1386691690
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv8hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv9.png" tvg-id="sctv9hd", SCTV9
-https://live.pipitv.top/stream/channelid/1864897478
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv10hd",SCTV 4K
-https://live.pipitv.top/stream/channelid/271927513
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv9hd
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv4k",SCTV 4K
+https://hqth.me/sctv4k
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctvpth.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
-https://live.pipitv.top/stream/channelid/763083955
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv10.png" tvg-id="sctv10hd",SCTV10
-https://live.pipitv.top/stream/channelid/1745292667
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctvhdpth
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv10.png" tvg-id="sctv10",SCTV10
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv10hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv11.png" tvg-id="sctv11hd",SCTV11
-https://live.pipitv.top/stream/channelid/899115030
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv11hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv12.png" tvg-id="sctv12hd",SCTV12
-https://live.pipitv.top/stream/channelid/1366054777
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv12hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv13.png" tvg-id="sctv13hd",SCTV13
-https://live.pipitv.top/stream/channelid/1171480244
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv13hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv14.png" tvg-id="sctv14hd",SCTV14
-https://live.pipitv.top/stream/channelid/1335637323
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv14hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
-https://live.pipitv.top/stream/channelid/221618500
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv15hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv16.png" tvg-id="sctv16hd",SCTV16
-https://live.pipitv.top/stream/channelid/506992306
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv16hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
-https://live.pipitv.top/stream/channelid/734404641
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv17hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv18.png" tvg-id="sctv18hd",SCTV18
-https://live.pipitv.top/stream/channelid/1120358007
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv18hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv19.png" tvg-id="sctv19hd",SCTV19
-https://live.pipitv.top/stream/channelid/157465597
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv19hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv20.png" tvg-id="sctv20hd",SCTV20
-https://live.pipitv.top/stream/channelid/2107565362
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv20hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv21.png" tvg-id="sctv21hd",SCTV21
-https://live.pipitv.top/stream/channelid/1916021295
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv21hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
-https://live.pipitv.top/stream/channelid/2115941430
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/antv.png" tvg-id="antvhd",ANTV
-https://live.pipitv.top/stream/channelid/1092898396
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/qpvn.png" tvg-id="qpvnhd",QPVN
-https://live.pipitv.top/stream/channelid/232783493
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/quochoi.png" tvg-id="quochoi",QUOC HOI
-https://live.pipitv.top/stream/channelid/657375655
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vnews.png" tvg-id="ttxvnhd",VNEWS
-https://live.pipitv.top/stream/channelid/1916712406
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc1.png" tvg-id="vtc1",VTC1
-https://live.pipitv.top/stream/channelid/2072221001
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc2.png" tvg-id="vtc2",VTC2
-https://live.pipitv.top/stream/channelid/959871559
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc3.png" tvg-id="vtc3hd",VTC3
-https://live.pipitv.top/stream/channelid/866317610
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc4.png" tvg-id="vtc4hd",VTC4
-https://live.pipitv.top/stream/channelid/653037567
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc5.png" tvg-id="vtc5hd",VTC5
-https://live.pipitv.top/stream/channelid/351133649
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc6.png" tvg-id="vtc6hd",VTC6
-https://live.pipitv.top/stream/channelid/1995105434
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc7.png" tvg-id="vtc7hd",VTC7
-https://live.pipitv.top/stream/channelid/903175158
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc8.png" tvg-id="vtc8",VTC8
-https://live.pipitv.top/stream/channelid/1408639932
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc9.png" tvg-id="vtc9hd",VTC9
-https://live.pipitv.top/stream/channelid/64684228
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc10.png" tvg-id="vtc10",VTC10
-https://live.pipitv.top/stream/channelid/1892042684
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc11.png" tvg-id="vtc11",VTC11
-https://live.pipitv.top/stream/channelid/466715534
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc12.png" tvg-id="vtc12",VTC12
-https://live.pipitv.top/stream/channelid/1992121812
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc13.png" tvg-id="vtc13hd",VTC13
-https://live.pipitv.top/stream/channelid/1545397462
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc14.png" tvg-id="vtc14hd",VTC14
-https://live.pipitv.top/stream/channelid/1561234621
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/vtc16.png" tvg-id="vtc16",VTC16
-https://live.pipitv.top/stream/channelid/1789825571
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hqth.me/sctv22hd
