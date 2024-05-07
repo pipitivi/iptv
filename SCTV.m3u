@@ -72,6 +72,10 @@ https://hqth.me/sctv21hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://hqth.me/sctv22hd
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+action.png" tvg-id="kaction",THVL ACTION HD
+https://live.pipitv.top/stream/channelid/196678339
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+cine.png" tvg-id="kcinehd",THVL CINE HD
+https://live.pipitv.top/stream/channelid/2102043759
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
 https://live.pipitv.top/stream/channelid/305067880
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
