@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="681eee7a797815fa3ec207afbca0c7ed",  [Live Event HD]
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="live",  [Live Event HD]
 https://hqth.me/cMs
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -73,14 +73,14 @@ https://hqth.me/sctv21hd
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://hqth.me/sctv22hd
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+action.png" tvg-id="kaction",THVL ACTION HD
-https://live.pipitv.top/stream/channelid/196678339
+https://live.pipitv.top/stream/channelid/1410860203
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+cine.png" tvg-id="kcinehd",THVL CINE HD
-https://live.pipitv.top/stream/channelid/2102043759
+https://live.pipitv.top/stream/channelid/1325910712
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
 https://live.pipitv.top/stream/channelid/305067880
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
 https://live.pipitv.top/stream/channelid/1133832693
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl3.png" tvg-id="vinhlong3hd",THVL3
-https://live.pipitv.top/stream/channelid/1322301157
+https://live.pipitv.top/stream/channelid/1896517621
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl4.png" tvg-id="vinhlong4hd",THVL4
-https://live.pipitv.top/stream/channelid/545009077
+https://live.pipitv.top/stream/channelid/1061555336
