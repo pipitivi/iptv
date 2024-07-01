@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png",  PLAYLIST DÀNH RIÊNG CHO MẠNG SCTV
+https://hqth.me/cMs
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="live",  [Live Event HD]
 https://hqth.me/cMs
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
