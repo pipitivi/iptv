@@ -1,88 +1,73 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png",  PLAYLIST DÀNH RIÊNG CHO MẠNG SCTV
+#EXTINF:-1, [Live Event 1]
 https://hqth.me/cMs
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="live",  [Live Event HD]
-https://hqth.me/cMs
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1, [Live Event 2]
+https://hqth.me/cMs2
+#EXTINF:-1, [Live Event 3]
+https://hqth.me/cMs3
+#EXTINF:-1, [Live Event 4]
+https://hqth.me/cMs4
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png" tvg-id="sctv1hd", SCTV1
 https://hqth.me/sctv1hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv2.png" tvg-id="sctv2hd", SCTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png" tvg-id="sctv2hd", SCTV2
 https://hqth.me/sctv2hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv3.png" tvg-id="sctv3hd", SCTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png" tvg-id="sctv3hd", SCTV3
 https://hqth.me/sctv3hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4.png" tvg-id="sctv4hd", SCTV4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png" tvg-id="sctv4hd", SCTV4
 https://hqth.me/sctv4hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv5.png" tvg-id="sctv5hd", SCTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png" tvg-id="sctv5hd", SCTV5
 https://hqth.me/sctv5hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv6.png" tvg-id="sctv6hd", SCTV6
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" tvg-id="sctv6hd", SCTV6
 https://hqth.me/sctv6hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv7.png" tvg-id="sctv7hd", SCTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png" tvg-id="sctv7hd", SCTV7
 https://hqth.me/sctv7hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv8.png" tvg-id="sctv8hd", SCTV8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png" tvg-id="sctv8hd", SCTV8
 https://hqth.me/sctv8hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv9.png" tvg-id="sctv9hd", SCTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png" tvg-id="sctv9hd", SCTV9
 https://hqth.me/sctv9hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv4k",SCTV 4K
+#EXTINF:-1 tvg-id="sctv4k",SCTV 4K
 https://hqth.me/sctv4k
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctvpth.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
 https://hqth.me/sctvhdpth
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv10.png" tvg-id="sctv10",SCTV10
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png" tvg-id="sctv10",SCTV10
 https://hqth.me/sctv10hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv11.png" tvg-id="sctv11hd",SCTV11
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png" tvg-id="sctv11hd",SCTV11
 https://hqth.me/sctv11hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv12.png" tvg-id="sctv12hd",SCTV12
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png" tvg-id="sctv12hd",SCTV12
 https://hqth.me/sctv12hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv13.png" tvg-id="sctv13hd",SCTV13
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png" tvg-id="sctv13hd",SCTV13
 https://hqth.me/sctv13hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv14.png" tvg-id="sctv14hd",SCTV14
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png" tvg-id="sctv14hd",SCTV14
 https://hqth.me/sctv14hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png" tvg-id="sctv15hd",SCTV15
 https://hqth.me/sctv15hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv16.png" tvg-id="sctv16hd",SCTV16
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png" tvg-id="sctv16hd",SCTV16
 https://hqth.me/sctv16hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png" tvg-id="sctv17hd",SCTV17
 https://hqth.me/sctv17hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv18.png" tvg-id="sctv18hd",SCTV18
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png" tvg-id="sctv18hd",SCTV18
 https://hqth.me/sctv18hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv19.png" tvg-id="sctv19hd",SCTV19
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png" tvg-id="sctv19hd",SCTV19
 https://hqth.me/sctv19hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv20.png" tvg-id="sctv20hd",SCTV20
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png" tvg-id="sctv20hd",SCTV20
 https://hqth.me/sctv20hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv21.png" tvg-id="sctv21hd",SCTV21
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png" tvg-id="sctv21hd",SCTV21
 https://hqth.me/sctv21hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png" tvg-id="sctv22hd",SCTV22
 https://hqth.me/sctv22hd
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+action.png" tvg-id="kaction",THVL ACTION HD
-https://live.pipitv.top/stream/channelid/1410860203
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/k+cine.png" tvg-id="kcinehd",THVL CINE HD
-https://live.pipitv.top/stream/channelid/1325910712
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
-https://live.pipitv.top/stream/channelid/305067880
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
-https://live.pipitv.top/stream/channelid/1133832693
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl3.png" tvg-id="vinhlong3hd",THVL3
-https://live.pipitv.top/stream/channelid/1896517621
-#EXTINF:-1 tvg-logo="https://pipitv.top/logo/thvl4.png" tvg-id="vinhlong4hd",THVL4
-https://live.pipitv.top/stream/channelid/1061555336
+#EXTINF:-1 tvg-id="kaction",THVL ACTION
+https://hqth.me/ACTION
+#EXTINF:-1 tvg-id="kcinehd",THVL CINE
+https://hqth.me/CINE
+#EXTINF:-1 tvg-id="ksport1hd",THVL SPORT1
+https://hqth.me/SPORT1
+#EXTINF:-1 tvg-id="ksport2hd", THVL SPORT2
+https://hqth.me/SPORT2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_thvl1_2016-nay.png" tvg-id="vinhlong1hd",THVL1
+https://hqth.me/THVL1HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_thvl2.png" tvg-id="vinhlong2hd",THVL2
+https://hqth.me/THVL2HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_thvl3_2019_nay.png" tvg-id="vinhlong3hd",THVL3
+https://hqth.me/THVL3HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_thvl4_2019-nay.png" tvg-id="vinhlong4hd",THVL4
+https://hqth.me/THVL4HD
