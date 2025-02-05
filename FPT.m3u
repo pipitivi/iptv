@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:0 tvg-id="lovenature" group-title="4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 group-title="SCTV", SCTV4K
-https://qwfssj7ip8snlseedmpg.pipitv.top/52F1587B
 #EXTINF:0 group-title="SCTV", ANSH HD
-https://qwfssj7ip8snlseedmpg.pipitv.top/917987BB
+https://050225.pipitv.top/917987BB
+#EXTINF:0 group-title="SCTV", SCTV14 HD
+https://050225.pipitv.top/EF3CC093
+#EXTINF:0 group-title="SCTV", SCTV 4K
+https://050225.pipitv.top/52F1587B
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
@@ -65,6 +67,7 @@ udp://@225.1.1.177:30120
 #-------------------SCTV-------------------#
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
+
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
