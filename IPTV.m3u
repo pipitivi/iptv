@@ -1,11 +1,33 @@
 #EXTM3U
 # ---Updating---
-#EXTINF:-1,VTV1
-https://qwfssj7ip8snlseedmpg.pipitv.top/2458BC1F
+
 #EXTINF:-1,ANTV
 https://qwfssj7ip8snlseedmpg.pipitv.top/F74A1431
 #EXTINF:-1,QPVN
 https://qwfssj7ip8snlseedmpg.pipitv.top/9370050A
+
+#EXTINF:-1,VTV1
+https://qwfssj7ip8snlseedmpg.pipitv.top/2458BC1F
+#EXTINF:-1,VTV2
+https://qwfssj7ip8snlseedmpg.pipitv.top/261E0246
+#EXTINF:-1,VTV3
+https://qwfssj7ip8snlseedmpg.pipitv.top/27DC6871
+#EXTINF:-1,VTV4
+https://qwfssj7ip8snlseedmpg.pipitv.top/22937EF4
+#EXTINF:-1,VTV5
+https://qwfssj7ip8snlseedmpg.pipitv.top/235114C3
+#EXTINF:-1,VTV5 Tây Nam Bộ
+https://qwfssj7ip8snlseedmpg.pipitv.top/0DDC34F8
+#EXTINF:-1,VTV5 Tây Nguyên
+https://qwfssj7ip8snlseedmpg.pipitv.top/4C380C9B
+#EXTINF:-1,VTV Cần Thơ
+https://qwfssj7ip8snlseedmpg.pipitv.top/9BE3FB3A
+#EXTINF:-1,VTV7
+https://qwfssj7ip8snlseedmpg.pipitv.top/20D5C0AD
+#EXTINF:-1,VTV8
+https://qwfssj7ip8snlseedmpg.pipitv.top/2B898790
+#EXTINF:-1,VTV9
+https://qwfssj7ip8snlseedmpg.pipitv.top/2A4BEDA7
 
 #EXTINF:-1,HTV7
 https://qwfssj7ip8snlseedmpg.pipitv.top/1909A346
