@@ -62,19 +62,19 @@ udp://@225.1.1.177:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
 #EXTINF:0,HTV1 HD
-https://500225.pipitv.top/1D84DFF4
+https://005225.pipitv.top/1D84DFF4
 #EXTINF:0,HTV4 HD
-https://500225.pipitv.top/1B4F1D1F
+https://005225.pipitv.top/1B4F1D1F
 #EXTINF:0,SCTV4K
-https://500225.pipitv.top/52F1587B
+https://005225.pipitv.top/52F1587B
 #EXTINF:0,SCTV5 HD
-https://500225.pipitv.top/4ED90A1C
+https://005225.pipitv.top/4ED90A1C
 #EXTINF:0,SCTV10 HD
-https://500225.pipitv.top/CEC90EF2
+https://005225.pipitv.top/CEC90EF2
 #EXTINF:0,SCTV14 HD
-https://500225.pipitv.top/EF3CC093
+https://005225.pipitv.top/EF3CC093
 #EXTINF:0,TH LONG AN HD
-https://500225.pipitv.top/35720D3A
+https://005225.pipitv.top/35720D3A
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
@@ -214,7 +214,7 @@ udp://@225.1.1.118:30120
 udp://@225.1.1.120:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH TP. Huế
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. Huế
 udp://@225.1.1.161:30120
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 udp://@225.1.1.162:30120
