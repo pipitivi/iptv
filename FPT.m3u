@@ -61,19 +61,19 @@ udp://@225.1.1.177:30120
 #-------------------SCTV-------------------#
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
-#EXTINF:0,HTV1 HD
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 HD
 https://500225.pipitv.top/1D84DFF4
-#EXTINF:0,HTV4 HD
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4 HD
 https://500225.pipitv.top/1B4F1D1F
-#EXTINF:0,SCTV4K
+#EXTINF:0 tvg-id="sctv4k" group-title="SCTV"tvg-logo="http://picons.pipitv.top/logo/sctv4k.png",SCTV4K
 https://500225.pipitv.top/52F1587B
-#EXTINF:0,SCTV5 HD
+#EXTINF:0 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.imgur.com/FYLs4yu.png",SCTV5 HD
 https://500225.pipitv.top/4ED90A1C
-#EXTINF:0,SCTV10 HD
+#EXTINF:0 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://i.imgur.com/46OxCQG.png",SCTV10 HD
 https://500225.pipitv.top/CEC90EF2
-#EXTINF:0,SCTV14 HD
-https://500225.pipitv.top/EF3CC093
-#EXTINF:0,TH LONG AN HD
+#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 HD
+https://500225.pipitv.top/C9C0A62E
+#EXTINF:0 tvg-id="longan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jBWD3It.png",TH LONG AN HD
 https://500225.pipitv.top/35720D3A
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
