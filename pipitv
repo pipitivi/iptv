@@ -37,6 +37,8 @@ https://rg.pipitv.top/vtv9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/VietnamTodayVTV.svg",VIETNAM TODAY HD
 https://rg.pipitv.top/vntoday
 
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
+https://rg.pipitv.top/sctv6
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 HD
 https://rg.pipitv.top/sctv16
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 HD
