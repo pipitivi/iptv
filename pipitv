@@ -44,6 +44,8 @@ https://rg.pipitv.top/sctv16
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 HD
 https://rg.pipitv.top/sctv22
 
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/05/16/176233636246/8ded7c5a9010_640_360.png", TH Cần Thơ 2 HD
+https://rg.pipitv.top/cantho2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfOw13y.png",TH Đồng Tháp 1 HD
 https://rg.pipitv.top/thdt1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXebESa.png",TH Đồng Tháp 2 HD
