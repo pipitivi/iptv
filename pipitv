@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 
+#EXTINF:-1,VOV Giao Thông TPHCM (QUIC)
+https://rg.pipitv.top/91hcm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 https://rg.pipitv .top/antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
