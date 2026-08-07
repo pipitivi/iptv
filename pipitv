@@ -2,6 +2,8 @@
 
 #EXTINF:-1,VOV Giao Thông TPHCM (QUIC)
 https://rg.pipitv,top/91hcm
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD (QUIC)
+#queue
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 https://rg.pipitv,top/antv
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
