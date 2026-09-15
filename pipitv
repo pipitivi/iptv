@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
 #EXTINF:-1,VOV Giao Thông TPHCM (QUIC)
 https://rg.pipitv,top/91hcm
