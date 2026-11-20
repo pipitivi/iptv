@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+# =============== VTV ================
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/4wkZbL5Z/vtv1.png",VTV1
+
+# Updating 20.11.2026
