@@ -1,5 +1,9 @@
-#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-# =============== VTV ================
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/4wkZbL5Z/vtv1.png",VTV1
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
-# Updating 20.11.2026
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/MxSvhSD8/antv.png",ANTV HD
+https://rg.pipitv.top/antv
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/4wkZbL5Z/vtv1.png",VTV1 HD
+https://rg.pipitv.top/vtv1
+
+# Updating 25.11.2026
