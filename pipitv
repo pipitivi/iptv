@@ -7,5 +7,7 @@ https://rg.pipitv,top/qpvn
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/4wkZbL5Z/vtv1.png",VTV1 HD
 https://rg.pipitv,top/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/JFg7zkCd/vtv2.png",VTV2 HD
+https://rg.pipitv,top/vtv2
 
-# updating.....
+# update 27.11.2026...
