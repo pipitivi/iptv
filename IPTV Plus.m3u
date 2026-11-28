@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+# Update 28.11.2026
+
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/MxSvhSD8/antv.png",ANTV HD
 https://rg.pipitv.top/antv
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/jvnvS4WX/qpvn.png",QPVN HD
@@ -9,5 +11,5 @@ https://rg.pipitv.top/qpvn
 https://rg.pipitv.top/vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/JFg7zkCd/vtv2.png",VTV2 HD
 https://rg.pipitv.top/vtv2
-
-# Update 27.11.2026
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/Cpb79tcm/vtv3.png",VTV3 HD
+https://rg.pipitv.top/vtv3
